@@ -3,7 +3,7 @@ const express = require('express');
 const path = require('path');
 const fs = require('fs');
 
-// Potential use of uuid (to be determined later)
+// use of uuid 
 const uuid = require('./helpers/uuid');
 
 
